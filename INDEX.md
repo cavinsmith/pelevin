@@ -46,6 +46,7 @@
 - `empire-V-personazhi.md` — Персонажи «Empire V»
 - `betman-apollo-personazhi.md` — Персонажи «Бэтмана Аполло»
 - `iphuck-10-personazhi.md` — Персонажи «iPhuck 10»
+- `transhumanizm-novye-personazhi.md` — Персонажи новых книг Трансгуманизма
 
 ### Сюжеты (`wiki/plots/`)
 - `zatvorNIK-i-sheSTIPALYJ.md` — Затворник и Шестипалый (1990)
@@ -72,6 +73,10 @@
 - `nepobedimoe-SOLNTSE-kniga2.md` — Непобедимое Солнце. Кн. 2 (2020)
 - `transhumanism-INC.md` — Transhumanism Inc. (2021)
 - `kgbt.md` — КГБТ+ (2022)
+- `transhumanizm-3.md` — Трансгуманизм 3. Путешествие в Элевсин (2023)
+- `transhumanizm-4-krut.md` — Круть (Трансгуманизм 4) (2024)
+- `transhumanizm-5-sinistra.md` — Трансгуманизм 5. A Sinistra (2025)
+- `vozvrashchenie-siney-borody.md` — Возвращение Синей Бороды (2026)
 - `rasskazy-1989-1993.md` — Рассказы 1989-1993 (26 рассказов)
 - `rasskazy-1994-2010.md` — Рассказы 1994-2010 (17 рассказов)
 - `sborniki.md` — Сборники (8 сборников)
@@ -119,6 +124,10 @@
 - `chisla-koncepciya.md` — Концепция «Чисел»
 - `snuff-koncepciya.md` — Концепция «S.N.U.F.F.»
 - `iphuck-koncepciya.md` — Концепция «iPhuck 10»
+- `transhumanizm-3-koncepciya.md` — Концепция «Трансгуманизм 3»
+- `krut-koncepciya.md` — Концепция «Круть»
+- `transhumanizm-5-koncepciya.md` — Концепция «Трансгуманизм 5»
+- `sinyaya-boroda-koncepciya.md` — Концепция «Возвращение Синей Бороды»
 
 ### Стиль (`wiki/style/`)
 - `ritm.md` — Ритм прозы
@@ -215,6 +224,11 @@
 - `t-4-mистика.md` — Мистика «t» (четвёртый уровень)
 - `betman-4-mистика.md` — Мистика «Бэтмана Аполло» (четвёртый уровень)
 - `iphuck-5-mистика.md` — Мистика «iPhuck 10» (пятый уровень)
+- `transhumanizm-3-mистика.md` — Мистика «Трансгуманизм 3»
+- `krut-mистика.md` — Мистика «Круть»
+- `transhumanizm-5-mистика.md` — Мистика «Трансгуманизм 5»
+- `sinyaya-boroda-mистика.md` — Мистика «Возвращения Синей Бороды»
+- `FINAL-SINTez.md` — Финальный синтез мистической системы
 
 ### Связи (`wiki/connections/`)
 - `WEB.md` — Карта связей
@@ -246,6 +260,8 @@
 - `svyazi-po-stilyu-2.md` — Связи между произведениями по стилю (углубление)
 - `svyazi-po-koncepciyam-2.md` — Связи между произведениями по концепциям (углубление)
 - `svyazi-po-personazham-3.md` — Связи между произведениями по персонажам (углубление)
+- `novye-knigi-svyazi.md` — Связи между новыми книгами и предыдущими произведениями
+- `polnyy-obzor-svyazey.md` — Полный обзор связей между всеми произведениями
 
 ### Анализ (`wiki/analysis/`)
 - `arhetipy-PEREVIN.md` — Сводный каталог архетипов
@@ -314,9 +330,17 @@
 - `chisla-arhetipy.md` — Архетипический анализ «Чисел»
 - `snuff-arhetipy.md` — Архетипический анализ «S.N.U.F.F.»
 - `betman-arhetipy.md` — Архетипический анализ «Бэтмана Аполло»
+- `transhumanizm-3-arhetipy.md` — Архетипы «Трансгуманизм 3»
+- `krut-arhetipy.md` — Архетипы «Круть»
+- `transhumanizm-5-arhetipy.md` — Архетипы «Трансгуманизм 5»
+- `sinyaya-boroda-arhetipy.md` — Архетипы «Возвращения Синей Бороды»
 - `chisla-filosofiya.md` — Философский анализ «Чисел»
 - `snuff-filosofiya.md` — Философский анализ «S.N.U.F.F.»
 - `iphuck-filosofiya.md` — Философский анализ «iPhuck 10»
+- `transhumanizm-3-filosofiya.md` — Философия «Трансгуманизм 3»
+- `krut-filosofiya.md` — Философия «Круть»
+- `transhumanizm-5-filosofiya.md` — Философия «Трансгуманизм 5»
+- `sinyaya-boroda-filosofiya.md` — Философия «Возвращение Синей Бороды»
 
 ### Темы (`wiki/themes/`)
 - `INDEX.md` — Индекс тематического анализа
@@ -422,6 +446,11 @@
 - `absurd-2.md` — Абсурд: от иронии к пустоте
 - `smysl-2.md` — Смысл жизни: от пустоты к небытию
 - `smekh-3.md` — Смех: финальная трансформация
+- `transhumanizm-novye-temy.md` — Трансгуманизм в новых книгах
+- `konspiraciya-novye-temy.md` — Конспирология в новых книгах
+- `duhovnost-novye-temy.md` — Духовность в новых книгах
+- `tehnologii-novye-temy.md` — Технологии в новых книгах
+- `smert-novye-temy.md` — Смерть и бессмертие в новых книгах
 
 ### Текст (`wiki/text/`)
 - `chapaev-i-PUSTOTA-analiz.md` — Текстовый анализ «Чапаева и Пустоты»
@@ -476,24 +505,24 @@
 - `COMPREHENSIVE-INDEX.md` — Полный индекс wiki (1074 строки, 233 ссылки)
 
 ## Статус
-- **Всего fb2-файлов**: 88
-- **Проанализировано**: ~79 (90%)
-- **Файлов wiki**: 423
+- **Всего fb2-файлов**: 92
+- **Проанализировано**: ~83 (90%)
+- **Файлов wiki**: 457
 - **Кросс-ссылок**: 726+
 - **Последнее обновление**: 2026-07-21
 
 ## Статистика по разделам
 | Раздел | Файлов | Описание |
 |--------|--------|----------|
-| characters | 43 | Профили персонажей |
-| plots | 27 | Анализ сюжетов |
-| concepts | 43 | Концепции |
+| characters | 44 | Профили персонажей |
+| plots | 31 | Анализ сюжетов |
+| concepts | 47 | Концепции |
 | style | 14 | Стилистика |
-| analysis | 65 | Философия, архетипы, интертекстуальность |
-| connections | 29 | Междукнижные связи |
-| mystical | 57 | Мистическая система |
+| analysis | 73 | Философия, архетипы, интертекстуальность |
+| connections | 31 | Междукнижные связи |
+| mystical | 62 | Мистическая система |
 | artifacts | 19 | Артефакты |
-| themes | 86 | Тематический анализ |
+| themes | 96 | Тематический анализ |
 | text | 19 | Текстовый анализ |
 | books | 5 | Аннотации к книгам |
 | synthesis | 3 | Итоговые документы |
