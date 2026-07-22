@@ -47,6 +47,11 @@
 - `betman-apollo-personazhi.md` — Персонажи «Бэтмана Аполло»
 - `iphuck-10-personazhi.md` — Персонажи «iPhuck 10»
 - `transhumanizm-novye-personazhi.md` — Персонажи новых книг Трансгуманизма
+- `transhumanizm-detali.md` — Детальные профили персонажей новых книг
+- `novye-knigi-vtorostepennye.md` — Второстепенные персонажи новых книг
+- `novye-knigi-vse-personazhi.md` — Все персонажи новых книг (1068 строк)
+- `novye-knigi-personazhi-sintez.md` — Синтез персонажей новых книг (378 строк)
+- `novye-knigi-personazhi-uglublenie.md` — Углублённый анализ персонажей новых книг
 
 ### Сюжеты (`wiki/plots/`)
 - `zatvorNIK-i-sheSTIPALYJ.md` — Затворник и Шестипалый (1990)
@@ -229,6 +234,18 @@
 - `transhumanizm-5-mистика.md` — Мистика «Трансгуманизм 5»
 - `sinyaya-boroda-mистика.md` — Мистика «Возвращения Синей Бороды»
 - `FINAL-SINTez.md` — Финальный синтез мистической системы
+- `novye-knigi-mистика-sintez.md` — Синтез мистики новых книг
+- `transhumanizm-3-detali.md` — Детальный анализ мистики «Трансгуманизм 3»
+- `krut-detali.md` — Детальный анализ мистики «Круть»
+- `transhumanizm-5-detali.md` — Детальный анализ мистики «Трансгуманизм 5»
+- `sinyaya-boroda-detali.md` — Детальный анализ мистики «Возвращения Синей Бороды»
+- `FINAL-SINTez-2.md` — Обновлённый финальный синтез мистической системы (727 строк)
+- `FINAL-SINTez-3.md` — Окончательный финальный синтез мистической системы (772 строки)
+- `transhumanizm-3-praktiki.md` — Практики «Трансгуманизм 3»
+- `krut-praktiki.md` — Практики «Круть»
+- `transhumanizm-5-praktiki.md` — Практики «Трансгуманизм 5»
+- `sinyaya-boroda-praktiki.md` — Практики «Возвращения Синей Бороды»
+- `novye-knigi-praktiki-uglublenie.md` — Углублённый анализ практик новых книг (345 строк)
 
 ### Связи (`wiki/connections/`)
 - `WEB.md` — Карта связей
@@ -262,6 +279,11 @@
 - `svyazi-po-personazham-3.md` — Связи между произведениями по персонажам (углубление)
 - `novye-knigi-svyazi.md` — Связи между новыми книгами и предыдущими произведениями
 - `polnyy-obzor-svyazey.md` — Полный обзор связей между всеми произведениями
+- `finalnyy-obzor.md` — Финальный обзор связей (1989-2026)
+- `novye-knigi-detali-svyazi.md` — Детальные связи между новыми книгами
+- `finalnyy-obzor-2.md` — Финальный обзор связей (92 произведения, 1989-2026)
+- `finalnyy-obzor-3.md` — Окончательный финальный обзор связей
+- `novye-knigi-svyazi-uglublenie.md` — Углублённый анализ связей новых книг (684 строки)
 
 ### Анализ (`wiki/analysis/`)
 - `arhetipy-PEREVIN.md` — Сводный каталог архетипов
@@ -334,6 +356,10 @@
 - `krut-arhetipy.md` — Архетипы «Круть»
 - `transhumanizm-5-arhetipy.md` — Архетипы «Трансгуманизм 5»
 - `sinyaya-boroda-arhetipy.md` — Архетипы «Возвращения Синей Бороды»
+- `novye-knigi-arhetipy-sintez.md` — Синтез архетипов новых книг
+- `transhumanizm-filosofiya-sintez.md` — Синтез философии новых книг
+- `novye-knigi-arhetipy-final.md` — Финальный синтез архетипов новых книг (418 строк)
+- `transhumanizm-filosofiya-uglublenie.md` — Углублённый философский анализ новых книг (581 строка)
 - `chisla-filosofiya.md` — Философский анализ «Чисел»
 - `snuff-filosofiya.md` — Философский анализ «S.N.U.F.F.»
 - `iphuck-filosofiya.md` — Философский анализ «iPhuck 10»
@@ -451,6 +477,21 @@
 - `duhovnost-novye-temy.md` — Духовность в новых книгах
 - `tehnologii-novye-temy.md` — Технологии в новых книгах
 - `smert-novye-temy.md` — Смерть и бессмертие в новых книгах
+- `identichnost-novye-temy.md` — Идентичность в новых книгах
+- `realnost-novye-temy.md` — Реальность в новых книгах
+- `svoboda-novye-temy.md` — Свобода в новых книгах
+- `lyubov-novye-temy.md` — Любовь в новых книгах
+- `smekh-novye-temy.md` — Смех и ирония в новых книгах
+- `absurd-novye-temy.md` — Абсурд в новых книгах
+- `smysl-novye-temy.md` — Смысл жизни в новых книгах
+- `media-novye-temy.md` — Медиа в новых книгах
+- `biznes-novye-temy.md` — Бизнес в новых книгах
+- `religiya-novye-temy.md` — Религия в новых книгах
+- `tvorchestvo-novye-temy.md` — Творчество в новых книгах
+- `iskusstvo-novye-temy.md` — Искусство в новых книгах
+- `nauka-novye-temy.md` — Наука в новых книгах
+- `politika-novye-temy.md` — Политика в новых книгах
+- `semya-novye-temy.md` — Семья в новых книгах
 
 ### Текст (`wiki/text/`)
 - `chapaev-i-PUSTOTA-analiz.md` — Текстовый анализ «Чапаева и Пустоты»
@@ -499,6 +540,7 @@
 - `BOOK-GUIDE.md` — Руководство по написанию книги в стиле Пелевина (653 строки)
 - `UNIVERSE.md` — Единая вселенная Пелевина (480 строк)
 - `READING-GUIDE.md` — Руководство для читателей (468 строк)
+- `FINAL-SINTez-WIKI.md` — Финальный синтез всей wiki (360 строк)
 - `READING-GUIDE.md` — Путеводитель по творчеству Пелевина для читателей (468 строк)
 
 ### Полный индекс
@@ -507,23 +549,23 @@
 ## Статус
 - **Всего fb2-файлов**: 92
 - **Проанализировано**: ~83 (90%)
-- **Файлов wiki**: 457
+- **Файлов wiki**: 507
 - **Кросс-ссылок**: 726+
 - **Последнее обновление**: 2026-07-21
 
 ## Статистика по разделам
 | Раздел | Файлов | Описание |
 |--------|--------|----------|
-| characters | 44 | Профили персонажей |
+| characters | 49 | Профили персонажей |
 | plots | 31 | Анализ сюжетов |
 | concepts | 47 | Концепции |
-| style | 14 | Стилистика |
-| analysis | 73 | Философия, архетипы, интертекстуальность |
-| connections | 31 | Междукнижные связи |
-| mystical | 62 | Мистическая система |
+| style | 19 | Стилистика |
+| analysis | 77 | Философия, архетипы, интертекстуальность |
+| connections | 36 | Междукнижные связи |
+| mystical | 74 | Мистическая система |
 | artifacts | 19 | Артефакты |
-| themes | 96 | Тематический анализ |
+| themes | 111 | Тематический анализ |
 | text | 19 | Текстовый анализ |
 | books | 5 | Аннотации к книгам |
-| synthesis | 3 | Итоговые документы |
-| meta | 10 | Глоссарий, цитаты, индексы |
+| synthesis | 4 | Итоговые документы |
+| meta | 14 | Глоссарий, цитаты, индексы |
